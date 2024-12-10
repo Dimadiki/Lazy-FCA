@@ -1,8 +1,0 @@
-
-This dataset provides insights into the health, attendance, and overall well-being of college students. It combines biometric data (stress levels,
-sleep patterns, anxiety, and mood scores) with class attendance information to assess the relationship between student health and academic performance. 
-The dataset is designed for studying and analyzing factors that influence student engagement and risk levels in an educational setting.
-
-
-I used one hot encoding and binarization for the dataset. 
-Compared to other models lazy fca showed itself well
